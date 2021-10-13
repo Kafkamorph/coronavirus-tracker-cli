@@ -32,7 +32,7 @@
   "license": "ISC",
   "dependencies": {
     "asciichart": "^1.5.11",
-    "axios": "^0.19.2",
+    "axios": "^0.21.3",
     "chalk": "^3.0.0",
     "cli-table3": "^0.6.0",
     "country-code-lookup": "0.0.17",
@@ -40,7 +40,7 @@
     "express": "^4.17.1",
     "helmet": "^3.21.3",
     "humanize-number": "0.0.2",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "morgan": "^1.10.0",
     "node-cache": "^5.1.0",
